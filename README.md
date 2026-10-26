@@ -1,5 +1,3 @@
-THIRD-PARTY SOFTWARE NOTICES
-Clip&Key - https://github.com/ViresGD/Clip-Key
 
 Clip&Key is a modified version of Edge-Drop by Deepender25
 (https://github.com/Deepender25/Edge-Drop), Apache License 2.0 - see LICENSE and NOTICE.
