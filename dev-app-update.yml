@@ -1,0 +1,7 @@
+# Dev-only update config for Murphy's Clip-Key fork (Apache-2.0 §4(b)).
+# electron-updater reads this when running unpackaged (npm run dev) so the
+# update check targets the fork's GitHub releases instead of failing with ENOENT.
+provider: github
+owner: ViresGD
+repo: Clip-Key
+updaterCacheDirName: clip-key-updater

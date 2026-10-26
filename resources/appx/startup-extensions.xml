@@ -1,0 +1,4 @@
+        <desktop:Extension Category="windows.startupTask" Executable="app\ClipKey.exe" EntryPoint="Windows.FullTrustApplication">
+          <desktop:StartupTask TaskId="EdgeDropStartup" Enabled="true" DisplayName="Clip&amp;Key" />
+        </desktop:Extension>
+

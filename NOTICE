@@ -1,0 +1,26 @@
+Clip&Key
+Copyright 2026 ViresGD
+https://github.com/ViresGD/Clip-Key
+
+This product is a modified version of Edge-Drop by Deepender25
+(https://github.com/Deepender25/Edge-Drop), licensed under the
+Apache License, Version 2.0. See LICENSE for the full license text.
+
+Changes made in Clip&Key (summary):
+  - Added a programmable virtual keyboard (shelf view, key editor,
+    Win32 SendInput typing, per-user key storage).
+  - Renamed the product to Clip&Key, replaced the icon set, and pointed
+    links and update checks at the Clip-Key repository.
+  - Removed upstream donation/promo links; added an optional
+    "Capture private copies" setting; added a Licenses card in Settings.
+  Every modified or added source file carries a
+  "Modified for Murphy's fork" notice (Apache-2.0 section 4(b)).
+
+"Edge-Drop" is the name of the original project and is not used to
+endorse or promote Clip&Key.
+
+Twemoji graphics (c) Twitter, Inc. and other contributors, licensed under
+CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+https://github.com/twitter/twemoji
+
+Third-party software notices are listed in THIRD_PARTY_NOTICES.txt.
